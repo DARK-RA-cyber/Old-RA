@@ -24,10 +24,3 @@ pip install bs4
 git clone https://github.com/DARK-RA-cyber/Old-RA
 cd Old-RA
 python Old-RA.py
-
-
-#### SCREENSHOT: ⬇️
-
-
-<h3> follow me my Facebook  For Tool's Password</h3>
-<h5>id  Link➛ <a href="https://www.facebook.com/MUHAMMAD.RONI.AKONDO?mibextid=ZbWKwL">Click Here</a></h5>
